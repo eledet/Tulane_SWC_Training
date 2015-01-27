@@ -1,1 +1,2 @@
 Good Morning!
+I hope you are excited about learning git!
