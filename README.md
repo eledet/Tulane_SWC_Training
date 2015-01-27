@@ -1,0 +1,3 @@
+# Tulane_SWC_Training
+This is a lesson creating a repository.
+It has all of the magics I learned during the two day seminar...
